@@ -2,7 +2,7 @@
 
 A modern, mobile-first **income tax filing prototype** built as a UX case study. The app simulates a complete end-to-end tax return filing flow — from OTP login to document upload, AI-powered extraction, tax summary review, and successful submission — all within a polished, fintech-grade interface.
 
-> **Live Demo →** _[Add your Vercel URL here]_
+> **Live Demo →** https://smart-tax-assistant-o922j5nxp-mitwaaaaaas-projects.vercel.app
 
 ---
 
@@ -114,19 +114,6 @@ The app uses a carefully curated **fintech color palette** designed to feel secu
 | `textMuted` | `#64748B` (Slate 500) | Secondary text, captions |
 
 **Typography:** [Inter](https://fonts.google.com/specimen/Inter) — clean, highly legible, designed for screens.
-
----
-
-## 🌐 Deployment
-
-This project is optimized for deployment on **[Vercel](https://vercel.com)**:
-
-1. Push your code to GitHub
-2. Import the repository on [vercel.com/new](https://vercel.com/new)
-3. Vercel auto-detects Vite — click **Deploy**
-4. Your app is live! ✅
-
-Every push to `main` triggers an automatic redeployment.
 
 ---
 
